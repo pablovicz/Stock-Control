@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import htpp from "../http-common.js";
+import http from "../http-common.js";
 
 export default {
   name: "product",

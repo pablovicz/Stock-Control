@@ -44,7 +44,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .searchForm {
   max-width: 300px;
   margin: auto;

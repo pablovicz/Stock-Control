@@ -28,6 +28,18 @@ export default {
 
 .btn-primary {
   margin-right: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 5px;
+}
+
+.btn-primary:hover {
+  background: #1e62d0;
 }
 
 .container-fluid {
