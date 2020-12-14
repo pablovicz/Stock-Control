@@ -84,7 +84,7 @@ export default {
       http
         .post("/product", data)
         .then((response) => {
-          this.product.id = reponse.data.id;
+          this.product.id = response.data.id;
           console.log(response.data);
         })
         .catch((e) => {
